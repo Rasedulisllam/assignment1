@@ -108,3 +108,23 @@ body{
 .recipie-item p{
     color:rgb(82, 82, 82);
 }
+.counter{
+    margin:50px;
+}
+.counter-main{
+    display: flex;
+    box-shadow: 1px 1px 18px #12e8e8bf;
+    padding: 26px;
+    border-radius: 20px;
+}
+.counter-item{
+    text-align: center;
+}
+.counter-item h1{
+    font-size:36px;
+    margin:0;
+}
+.counter-item p{
+    color:rgb(82, 82, 82);
+    margin:0;
+}
