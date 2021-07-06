@@ -73,3 +73,38 @@ body{
     margin-bottom: 30px;
 
 }
+.recipie-main{
+    margin-top:100px;
+}
+.recipie-head{
+    text-align: center;
+    color:rgb(100, 99, 99);
+
+
+}
+.recipie-head h2{
+    font-size: 34px;
+}
+.recipie-head p{
+    width: 50%;
+    margin:auto;
+}
+.recipie-items{
+    display: flex;
+    margin:40px;
+}
+.recipie-item{
+    padding: 28px;
+    margin: 2%;
+    box-shadow: 1px 1px 18px #12e8e8bf;
+    border-radius: 20px;
+}
+.recipie-item img{
+    border-radius: 20px;
+}
+.recipie-item h2{
+    text-transform: capitalize;
+}
+.recipie-item p{
+    color:rgb(82, 82, 82);
+}
