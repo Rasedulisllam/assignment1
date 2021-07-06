@@ -47,3 +47,29 @@ body{
     margin-top: 10px;
     display: inline-block;
 }
+.about-main{
+    display:flex;
+    margin-top:70px;
+    background-image:url(img/Frame59.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.about-img{
+    text-align: center;
+}
+.about-img img{
+    width:430px;
+}
+.about-content{
+    padding: 77px;
+}
+.about-content h2{
+    font-size: 36px;
+    color:rgb(100, 99, 99);
+}
+.about-content p{
+    
+    width: 414px;
+    margin-bottom: 30px;
+
+}
