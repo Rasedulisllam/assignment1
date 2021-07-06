@@ -128,3 +128,17 @@ body{
     color:rgb(82, 82, 82);
     margin:0;
 }
+footer{
+    background-color:#0b0d17;
+    color:rgb(82, 82, 82);
+    text-align:center;
+    padding: 48px;
+}
+footer h2{
+    font-size: 38px;
+    margin:0;
+}
+footer p{
+    color:rgb(194, 190, 190);
+    margin:0;
+}
